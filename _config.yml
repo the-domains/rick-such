@@ -1,0 +1,28 @@
+name: Rick Such
+favicon: null
+layout_spectrum: 0.256892719771713
+typography_spectrum: 0.6219241365324706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2472414644435048
+  lightness: 0.8751103437971324
+  saturation: 0.2438219643663615
+  rhythmicContrast: 0.31878700316883624
+purpose: []
