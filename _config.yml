@@ -1,6 +1,6 @@
 name: Rick Such
 favicon: null
-layout_spectrum: 0.98684
+layout_spectrum: 0
 typography_spectrum: 0.6219241365324706
 title: Rick Such Voiceover + Assorted Interests
 cta:
@@ -22,7 +22,7 @@ color:
     - '#bfaca0'
     - '#f8eadc'
     - '#923729'
-  brandStrength: 0.2472414644435048
+  brandStrength: 0.5
   lightness: 0.8751103437971324
   saturation: 0.2438219643663615
   rhythmicContrast: 0.31878700316883624
