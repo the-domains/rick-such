@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Rick Such. \_Voiceover Demo + Assorted \_"
-datePublished: '2016-04-15T21:42:16.086Z'
-dateModified: '2016-04-15T21:41:45.400Z'
+datePublished: '2016-04-15T22:07:16.391Z'
+dateModified: '2016-04-15T22:06:47.090Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-15-rick-such-voiceover-demo-assorted.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-rick-such-voiceover-demo-assorted.md
-published: true
 url: rick-such-voiceover-demo-assorted/index.html
 _type: Article
 
