@@ -1,29 +1,41 @@
-name: Rick Such
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6219241365324706
-title: Rick Such Voiceover + Assorted Interests
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+title: Rick Such Voiceover + Assorted Interests
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2438219643663615
+  brandStrength: 0.5
+  rhythmicContrast: 0.3187870031688362
   brandColors:
     - '#110c10'
     - '#275674'
     - '#bfaca0'
     - '#f8eadc'
     - '#923729'
-  brandStrength: 0.5
   lightness: 0.8751103437971324
-  saturation: 0.2438219643663615
-  rhythmicContrast: 0.31878700316883624
 purpose: []
+favicon: null
+name: Rick Such
+typography_spectrum: 0.6219241365324706
